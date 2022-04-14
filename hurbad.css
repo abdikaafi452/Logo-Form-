@@ -1,0 +1,587 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.container{
+    width: 100%;
+    height: 4300px;
+}
+.nav{
+   text-align: center;
+   margin-top: -10px;
+}
+.nav  img{
+    width: 5%;
+    height: 5%;
+    margin-right: 100px;
+  
+}
+.nav a{
+    text-decoration: none;
+    margin: 7px;
+    color: black;
+  
+}
+.nav .active{
+    color: #008000;
+}
+.nav h1{
+    margin-left: 1150px;
+    margin-top: -40px ;
+    font-size: 20px;
+}
+.xog img{
+   
+    margin-top: 200px;
+    margin-left: 200px;
+
+}
+.xog h1{
+position: relative;
+    margin-left: 900px;
+    margin-top: -230px;
+   font-weight: bold;
+}
+.xog h2{
+position: relative;
+  margin-left: 700px;
+  margin-top: -160px;
+ font-weight: bold;
+}
+.xog h1 p{
+    font-size: 50px;
+}
+.xog h3 img{
+margin-left: 990px;
+margin-top: 15px;
+
+}
+.com{
+    background-color: rgb(0, 188, 0);
+    width: 100%;
+    height: 250px;
+    text-align: center;
+    margin-top: 70px;
+}
+.com p{
+    position: absolute;
+  color: white;
+  font-size: 40px;
+    margin-top: 60px;
+    margin-left:100px ;
+
+}
+.kor {
+    margin-top: 60px;
+    text-align: center;
+    color: black;
+   
+}
+.kor h1{
+    font-size: 50px;
+    font-weight: bold;
+  
+}
+.kor p {
+   margin-top: 70px; 
+   font-size: 20px;
+
+}
+.pic {
+   
+   margin-left: 160px;
+   position: absolute;
+   margin-top: 100px;
+}
+.pic button {
+   border-radius: 20px;
+   position: absolute;
+   background-color: white;
+   font-size: 15px;
+    
+ }
+
+ .pic button p{
+     width: 55%;
+     height: 55%;
+     border: 3px solid green;
+     margin-left: 80px;
+     margin-top: -20px;
+     font-size: 25px;
+     border-radius: 10px;
+ }
+
+
+ 
+.pic1 {
+   
+    margin-left: 560px;
+    position: absolute;
+    margin-top: 100px;
+ }
+ .pic1 button {
+    border-radius: 20px;
+    position: absolute;
+    background-color: white;
+    font-size: 15px;
+     
+  }
+ 
+  .pic1 button p{
+      width: 55%;
+      height: 55%;
+      border: 3px solid green;
+      margin-left: 80px;
+      margin-top: -20px;
+      font-size: 25px;
+      border-radius: 10px;
+  }
+
+  .pic2 {
+   
+    margin-left: 960px;
+    position: absolute;
+    margin-top: 100px;
+ }
+ .pic2 button {
+    border-radius: 20px;
+    position: absolute;
+    background-color: white;
+    font-size: 15px;
+     
+  }
+ 
+  .pic2 button p{
+      width: 55%;
+      height: 55%;
+      border: 3px solid green;
+      margin-left: 80px;
+      margin-top: -20px;
+      font-size: 25px;
+      border-radius: 10px;
+  }
+
+
+  .pic3 {
+   
+    margin-left: 160px;
+    position: absolute;
+    margin-top: 500px;
+ }
+ .pic3 button {
+    border-radius: 20px;
+    position: absolute;
+    background-color: white;
+    font-size: 15px;
+     
+  }
+ 
+  .pic3 button p{
+      width: 55%;
+      height: 55%;
+      border: 3px solid green;
+      margin-left: 80px;
+      margin-top: -20px;
+      font-size: 25px;
+      border-radius: 10px;
+  }
+
+  .pic4 {
+   
+    margin-left: 560px;
+    position: absolute;
+    margin-top: 490px;
+ }
+ .pic4 button {
+    border-radius: 20px;
+    position: absolute;
+    background-color: white;
+    font-size: 15px;
+     
+  }
+ 
+  .pic4 button p{
+      width: 55%;
+      height: 55%;
+      border: 3px solid green;
+      margin-left: 80px;
+      margin-top: -20px;
+      font-size: 25px;
+      border-radius: 10px;
+  }
+
+  
+  .pic5{
+   
+    margin-left: 960px;
+    position: absolute;
+    margin-top: 470px;
+ }
+ .pic5 button {
+    border-radius: 20px;
+    position: absolute;
+    background-color: white;
+    font-size: 15px;
+     
+  }
+ 
+  .pic5 button p{
+      width: 55%;
+      height: 55%;
+      border: 3px solid green;
+      margin-left: 80px;
+      margin-top: -20px;
+      font-size: 25px;
+      border-radius: 10px;
+  }
+
+
+  .course{
+    width: 200px;
+    height: 150px;
+  }
+  .course h1{
+    margin-top: 900px;
+    margin-left: 450px;
+    font-size: 46px;
+    font-weight: bold;
+  }
+  .sub{
+     
+      margin-left: 50px;
+     
+  }
+  .sub button{
+    background-color: white;
+    width: 370px;
+    height: 250px;
+    border-radius: 50px;
+    position: absolute;
+    
+    border: 2px solid yellow;
+}
+.sub button h1{
+ margin-top: -30px;
+    font-size: 30px;
+}
+.sub button  p {
+       font-size:18px;
+   }
+  
+
+   .sub1{
+     
+    margin-left: 500px;
+   
+}
+.sub1 button{
+  background-color: white;
+  width: 370px;
+  height: 250px;
+  border-radius: 20px;
+  position: absolute;
+  
+  border: 2px solid yellow;
+}
+.sub1 button h1{
+margin-top: -30px;
+  font-size: 30px;
+}
+.sub1 button  p {
+     font-size:18px;
+ }
+
+ .sub2{
+     
+    margin-left: 1000px;
+   margin-top: -40PX;
+}
+.sub2 button{
+  background-color: white;
+  width: 370px;
+  height: 250px;
+  border-radius: 20px;
+  position: absolute;
+  
+  border: 2px solid yellow;
+}
+.sub2 button h1{
+margin-top: -30px;
+  font-size: 30px;
+}
+.sub2 button  p {
+     font-size:18px;
+ }
+ 
+
+ 
+ .sub3{
+     
+    margin-left: 50px;
+    margin-top: 300px;
+   
+}
+.sub3 button{
+  background-color: white;
+  width: 370px;
+  height: 250px;
+  border-radius: 20px;
+  position: absolute;
+  
+  border: 2px solid yellow;
+}
+.su3 button h1{
+margin-top: -30px;
+  font-size: 30px;
+}
+.sub3 button  p {
+     font-size:18px;
+ }
+ 
+ .sub5{
+     
+    margin-left: 500px;
+   margin-top: -40px;
+}
+.sub5 button{
+  background-color: white;
+  width: 370px;
+  height: 250px;
+  border-radius: 20px;
+  position: absolute;
+  
+  border: 2px solid yellow;
+}
+.sub5 button h1{
+margin-top: -30px;
+  font-size: 30px;
+} 
+.sub5 button  p {
+     font-size:18px;
+ }
+ .sub6{
+    
+    margin-left: 1000px;
+
+   margin-top: -40px;
+}
+.sub6 button{
+  background-color: white;
+
+  width: 370px;
+  height: 250px;
+  border-radius: 20px;
+  position: absolute;
+  
+  border: 2px solid yellow;
+}
+.sub6 button h1{
+margin-top: -30px;
+  font-size: 30px;
+}
+.sub6 button  p {
+     font-size:18px;
+ }
+
+ 
+
+ .sub7{
+     
+    margin-left: 50px;
+    margin-top: 310px;
+   
+}
+.sub7 button{
+  background-color: white;
+  width: 370px;
+  height: 250px;
+  border-radius: 20px;
+  position: absolute;
+  
+  border: 2px solid yellow;
+}
+.su7 button h1{
+margin-top: -30px;
+  font-size: 30px;
+}
+.sub7 button  p {
+     font-size:18px;
+ }
+
+ .sub8{
+     
+    margin-left: 500px;
+   margin-top: -40px;
+}
+.sub8 button{
+  background-color: white;
+  width: 370px;
+  height: 250px;
+  border-radius: 20px;
+  position: absolute;
+  
+  border: 2px solid yellow;
+}
+.sub8 button h1{
+margin-top: -30px;
+  font-size: 30px;
+} 
+.sub8 button  p {
+     font-size:18px;
+ }
+
+ .sub9{
+    
+    margin-left: 1000px;
+
+   margin-top: -40px;
+}
+.sub9 button{
+  background-color: white;
+
+  width: 370px;
+  height: 250px;
+  border-radius: 20px;
+  position: absolute;
+  
+  border: 2px solid yellow;
+}
+.sub9 button h1{
+margin-top: -30px;
+  font-size: 30px;
+}
+.sub9 button  p {
+     font-size:18px;
+ } 
+
+ 
+ .sub10{
+     
+    margin-left: 50px;
+    margin-top: 610px;
+   
+}
+.sub10 button{
+  background-color: white;
+  width: 370px;
+  height: 250px;
+  border-radius: 20px;
+  position: absolute;
+  
+  border: 2px solid yellow;
+}
+.su10 button h1{
+margin-top: -30px;
+  font-size: 30px;
+}
+.sub10 button  p {
+     font-size:18px;
+ }
+
+.sub11{
+     
+    margin-left: 500px;
+   margin-top: -40px;
+}
+.sub11 button{
+  background-color: white;
+  width: 370px;
+  height: 250px;
+  border-radius: 20px;
+  position: absolute;
+  
+  border: 2px solid yellow;
+}
+.sub11 button h1{
+margin-top: -30px;
+  font-size: 30px;
+} 
+.sub11 button  p {
+     font-size:18px;
+ }
+  
+ .sub12{
+    
+    margin-left: 1000px;
+
+   margin-top: -40px;
+}
+.sub12 button{
+  background-color: white;
+
+  width: 370px;
+  height: 250px;
+  border-radius: 20px;
+  position: absolute;
+  
+  border: 2px solid yellow;
+}
+.sub12 button h1{
+margin-top: -30px;
+  font-size: 30px;
+}
+.sub12 button  p {
+     font-size:18px;
+ }  
+
+
+ .iT{
+     background: #000;
+     width: 100%;
+     height: 300px;  
+      
+     margin-top: 900px;
+ }
+ .iT h1{
+     color: #fff;
+     margin-top: 50px;
+     margin-left: 250px;
+     position: absolute;
+    
+    
+  
+}
+
+.iT h2{
+    color: #fff;
+    font-size: 40px;
+    margin-top: 200px;
+    margin-left: 190px;
+    position: absolute;
+}
+.last {
+    width: 100%;
+    height: 150px;
+    margin-top: 50px;
+  
+}
+.last h1{
+   color: black;
+   font-size: 30px;
+   margin-left: 390px;
+  
+}
+.last p {
+   color: green;
+   margin-top: 30px;
+   font-size: 30px;
+    margin-left: 290px;
+}
+.std{
+    width: 100%;
+    height: 200px;
+background: #000;
+color: #fff;
+}
+.std h1 {
+    margin-left: 150px;
+    font-size: 50px;
+   position: absolute;
+    margin-top: 90px;
+  }
+.std h2  {
+  margin-left: 500px;
+  font-size: 50px;
+  margin-top: -30px;
+}
